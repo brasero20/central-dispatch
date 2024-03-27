@@ -1,0 +1,36 @@
+.main-content .card:nth-of-type(1) {
+  border-radius: 4px 4px 0 0;
+}
+.main-content .forgot-username-password {
+  border-radius: 0 0 4px 4px;
+  border-top: none;
+  height: 52px;
+}
+.main-content .forgot-username-password .text-lg-left {
+  margin-left: 32px;
+}
+.main-content .forgot-username-password .text-lg-left span {
+  font-size: 16px;
+  font-weight: 400;
+}
+.main-content .forgot-username-password .text-lg-right {
+  margin-right: 35px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.main-content .forgot-username-password .text-lg-right a:nth-of-type(1) {
+  margin-right: 17px;
+}
+.main-content .create-account {
+  margin-top: 24px;
+}
+.main-content .create-account span {
+  font-size: 14px;
+}
+.main-content .create-account button {
+  margin-top: 8px;
+  width: 296px;
+  height: 38px;
+}
+
+/*# sourceMappingURL=login-utilities.css.map */
